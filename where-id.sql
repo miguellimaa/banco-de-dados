@@ -1,0 +1,1 @@
+update `cidade` set `ibge` = '2927409 tbl_pessoastbl_pessoastbl_pessoastbl_pessoas' where `id`= '616';
